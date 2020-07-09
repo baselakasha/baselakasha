@@ -10,7 +10,8 @@ I am a self-taught programmer who relies on himself. I developed my skills using
 
 ## Get in touch 
 
-[![Dev.to](assets/Dev-32.png)](https://dev.to/baselakasha)    [![Linked In](assets/linkedin-32.webp)](https://www.linkedin.com/in/baselakasha/)   [![Twitter](assets/twitter-32.webp)](https://twitter.com/basel_akasha)    [![Stackoverflow](assets/stackoverflow-32.png)](https://stackoverflow.com/users/8176912/basel-akasha)
+[![Dev.to](https://github.com/baselakasha/baselakasha/blob/master/assets/Dev-32.png)](https://dev.to/baselakasha)    [![Linked In](https://github.com/baselakasha/baselakasha/blob/master/assets/linkedin-32.webp)](https://www.linkedin.com/in/baselakasha/)    [![Twitter](https://github.com/baselakasha/baselakasha/blob/master/assets/twitter-32.webp)](https://twitter.com/basel_akasha)    [![Stackoverflow](https://github.com/baselakasha/baselakasha/blob/master/assets/stackoverflow-32.png)](https://stackoverflow.com/users/8176912/basel-akasha)
+
 
 Email: [Contact@BaselAkasha.com](mailto:contact@baselakasha.com)
 
