@@ -15,4 +15,4 @@ I am a self-taught programmer who relies on himself. I developed my skills using
 
 Email: [Contact@BaselAkasha.com](mailto:contact@baselakasha.com)
 
-Online form: [Contact - Basel Akasha](https://www.baselakasha.com)
+Online form: [Contact - Basel Akasha](https://www.baselakasha.com/contact)
