@@ -5,7 +5,7 @@ I am Basel. A web developer and programmer
 💡 You can visit my portfolio: [https://www.baselakasha.com](https://www.baselakasha.com)
 
 ## About
-I am a self-taught programmer who relies on himself. I developed my skills using self-learning methods and by following online courses. I am the kind of person who takes initiative. My main focus is web development but I like to go into experiments and try things out as I like to learn and gain new skills.
+I am someone who thinks differently and critically. My passion for technology combined with my curiosity led me to learn to program. I continued developing my software development skills using self-learning methods, taking online courses and reading books. I like to try things out as I enjoy learning and gaining new skills.
 
 
 ## Get in touch 
