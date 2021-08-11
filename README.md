@@ -1,12 +1,7 @@
-## Hi there 👋
-
-I am Basel. A web developer and programmer
+## About
+I am an experienced software developer who thinks differently and critically. My passion for technology and curiosity led me to learn programming at a young age. Over the few past years, I have been involved in several software projects and I developed the skills that make a professional software developer.
 
 💡 You can visit my portfolio: [https://www.baselakasha.com](https://www.baselakasha.com)
-
-## About
-I am someone who thinks differently and critically. My passion for technology combined with my curiosity led me to learn to program. I continued developing my software development skills using self-learning methods, taking online courses and reading books. I like to try things out as I enjoy learning and gaining new skills.
-
 
 ## Get in touch 
 
