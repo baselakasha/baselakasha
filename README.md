@@ -1,6 +1,9 @@
 ## About
 I am an experienced software developer who thinks differently and critically. My passion for technology and curiosity led me to learn programming at a young age. Over the few past years, I have been involved in several software projects and I developed the skills that make a professional software developer.
 
+I work on open source project in my free time and I translate open source project to Arabic. 
+One of the project I translated: [CSS Grid Garden](https://github.com/thomaspark/gridgarden)
+
 💡 You can visit my portfolio: [https://www.baselakasha.com](https://www.baselakasha.com)
 
 ## Get in touch 
