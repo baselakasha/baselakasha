@@ -1,5 +1,5 @@
 ## About
-As a software developer with a unique perspective and critical approach, I am driven by my passion for technology and innate curiosity. I honed my programming skills at a young age, and have since gained valuable experience through various software development projects. My expertise and dedication have solidified my position as a professional in the field.As
+With a unique outlook and analytical approach to software development, my passion for technology and thirst for knowledge drives me forward. Sharpening my programming skills from a young age has been enhanced by the valuable experience gained through diverse software development projects. This has led to my establishment as a professional in the industry.
 
 
 ## Get in touch 
