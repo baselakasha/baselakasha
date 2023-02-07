@@ -1,5 +1,5 @@
 ## About
-I am a software developer who thinks differently and critically. My passion for technology and curiosity led me to learn programming at a young age. Over the few past years, I have been involved in several software projects and I developed the skills that make a professional software developer.
+As a software developer with a unique perspective and critical approach, I am driven by my passion for technology and innate curiosity. I honed my programming skills at a young age, and have since gained valuable experience through various software development projects. My expertise and dedication have solidified my position as a professional in the field.As
 
 
 ## Get in touch 
